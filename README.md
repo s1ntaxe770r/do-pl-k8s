@@ -60,7 +60,7 @@ kube-system   coredns                    2/2     2            2           64m
 ```
 
 ## Clean up 
-
+because I'm not made out of money all good things must come to an end 
 ```bash
 pulumi destroy
 ```
