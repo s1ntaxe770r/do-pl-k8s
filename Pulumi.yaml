@@ -1,0 +1,5 @@
+name: pl-k8s
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
+
+

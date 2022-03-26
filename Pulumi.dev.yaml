@@ -1,0 +1,4 @@
+config:
+  digitalocean:token:
+    secure: AAABAEUBGYQwmO9jYgYd8aZOf6nhBCj+ZJToWrqWO5cBBjqYuqDljnYYn0L3hdJBeJ0XM2QsIxKPTu4SGSmxOAk6kpv6A5+TierG5te8F5CLciADLGhhQedcYWu+tAro
+  pl-k8s:node_count: "2"
