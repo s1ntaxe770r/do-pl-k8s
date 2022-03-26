@@ -1,0 +1,11 @@
+{
+    "name": "pl-k8s",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/digitalocean": "^4.11.1",
+        "@pulumi/kubernetes": "^3.17.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
