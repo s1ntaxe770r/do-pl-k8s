@@ -1,13 +1,16 @@
 # do-pl-k8s 🚀
 
 Q: What's this?
+
 A: an attempt to teach myself typscript and pulumi at the same time 
 
 
 Q: I thought you don't like javascript? 
-A: True but I like types 
+
+A: True,  but I like types 
 
 Q: So what does this do?
+
 A: This project provisons a kubernetes cluster on digitalocean and deploy Ingress-Nginx using the helm provider 
 
 
